@@ -39,7 +39,7 @@ const Footer: React.FC = () => {
                 <ul className="social-links">
                   <li>
                     <a
-                      href="https://www.facebook.com/people/Divyang-Bhavan-PCMC/61563587007236/"
+                      href="https://www.facebook.com/profile.php?id=61569597896487"
                       className="facebook"
                       target="_blank"
                     >
@@ -48,7 +48,7 @@ const Footer: React.FC = () => {
                   </li>
                   <li>
                     <a
-                  href="https://www.youtube.com/@DivyangBhavanPCMC"
+                  href="https://www.linkedin.com/company/purple-jallosh/"
                  className="youtube"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -68,7 +68,7 @@ const Footer: React.FC = () => {
                   </li>
                   <li>
                     <a
-                      href="https://www.instagram.com/divyang_bhavan_pcmc/"
+                      href="https://www.instagram.com/purple_jallosh_pune/"
                       className="instagram"
                       target="_blank"
                     >
